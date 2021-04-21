@@ -2,7 +2,7 @@
 ![Discord](https://img.shields.io/discord/700168659536052256)
 
 ### 👔 Acerca de mi 
-
+Soy un desarrollador Junior interesado en el desarrollo web (específicamente en el backend)
 
 ### 💻 Habilidades
 
