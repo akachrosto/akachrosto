@@ -1,16 +1,15 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/akachrosto?style=social)
 ![Discord](https://img.shields.io/discord/700168659536052256)
 
-### 😳 Acerca de mi 
+### 👔 Acerca de mi 
 
-### 👔 Actualmente
 
 ### 💻 Habilidades
 
-| **Nivel de Habilidad** | Lenguaje o Actividad |
+| **Nivel** | **Lenguaje o Actividad** |
 | ------------- | ------------- |
 | **Básico** | PhP, SQL, SQlite, Firebase, CSS |
-| **Intermedio** | Python, Javascript, Node.JS, HTML (FL STUDIO)|
+| **Intermedio** | Python, Javascript, Node.JS, HTML, Bootstrap|
 | **Avanzado** | N/A |
 
 ### 📊 Estadisticas de GitHub
@@ -19,5 +18,5 @@
 
 ## 👻 Podrás encontrarme también en
 
-<a href="https://instagram.com/akachrosto" target="_blank"><img src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg" alt="drawing" width="50"/></a>
-<a href="https://dev.to/akachrosto" target="_blank"><img src="https://iconape.com/wp-content/files/ak/70032/svg/instagram-2-1.svg" alt="drawing" width="50"/>
+<a href="https://instagram.com/akachrosto" target=_blank><img src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg" alt="drawing" width="50"/></a>
+<a href="https://dev.to/akachrosto" target=_blank><img src="https://iconape.com/wp-content/files/ak/70032/svg/instagram-2-1.svg" alt="drawing" width="50"/>
