@@ -1,5 +1,4 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/akachrosto?style=social)
-![Discord](https://img.shields.io/discord/700168659536052256)
 
 ### 👔 Acerca de mi 
 Soy un desarrollador Junior interesado en el desarrollo web (específicamente en el backend)
@@ -19,4 +18,4 @@ Soy un desarrollador Junior interesado en el desarrollo web (específicamente en
 ## 👻 Podrás encontrarme también en
 
 <a href="https://dev.to/chrosto" target="_blank"><img src="https://iconape.com/wp-content/files/hl/53010/svg/devto.svg" alt="drawing" width="50"/></a>
-<a href="https://instagram.com/akachrosto" target="_blank"><img src="https://iconape.com/wp-content/files/ak/70032/svg/instagram-2-1.svg" alt="drawing" width="50"/>
+<a href="https://instagram.com/akachrosto" target="_blank"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="drawing" width="50"/>
