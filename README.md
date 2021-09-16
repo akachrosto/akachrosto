@@ -6,9 +6,9 @@ Soy un desarrollador Junior interesado en el desarrollo web (específicamente en
 | **Tópico** | **Actividad** |
 | ------------- | ------------- |
 | **Bases de Datos** | SQL, SQLite, PostgreSQL, Firebase |
-| **Lenguajes de programación** | Python, Javascript, PhP|
+| **Lenguajes de Programación** | Python, Javascript, PhP|
 | **Frameworks** | ExpressJS, PUG, Bootstrap  |
-| **Actualmente aprendiendo** | MySQL, PhP POO, Symfony, Laravel  |
+| **Actualmente Aprendiendo** | MySQL, PhP POO, Symfony, Laravel  |
 | **Otros** | HTML, CSS, NodeJS, Discord (Javascript y Python) |
 
 ### 📊 Estadísticas de GitHub
