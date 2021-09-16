@@ -6,10 +6,10 @@ Soy un desarrollador Junior interesado en el desarrollo web (específicamente en
 | **Tópico** | **Actividad** |
 | ------------- | ------------- |
 | **Bases de Datos** | SQL, SQLite, PostgreSQL, Firebase |
-| **Lenguajes de programación** | Python, Javascript, PhP,|
+| **Lenguajes de programación** | Python, Javascript, PhP|
 | **Frameworks** | ExpressJS, PUG, Bootstrap  |
 | **Actualmente aprendiendo** | MySQL, PhP POO, Symfony, Laravel  |
-| **Otros** | HTML, CSS, NodeJS, Discord(Javascript y Python) |
+| **Otros** | HTML, CSS, NodeJS, Discord (Javascript y Python) |
 
 ### 📊 Estadísticas de GitHub
 [![Chrosto's GitHub stats](https://github-readme-stats.vercel.app/api?username=akachrosto&show_icons=true&theme=blueberry&count_private=true&hide=prs,issues&hide_border=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
