@@ -1,5 +1,3 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/akachrosto?style=social)
-
 ### 👔 Acerca de mí 
 Soy un desarrollador Junior interesado en el desarrollo web (específicamente en el backend)
 
@@ -7,11 +5,11 @@ Soy un desarrollador Junior interesado en el desarrollo web (específicamente en
 
 | **Tópico** | **Actividad** |
 | ------------- | ------------- |
-| **Databases** | SQL, SQLite, PostgreSQL, Firebase |
+| **Bases de Datos** | SQL, SQLite, PostgreSQL, Firebase |
 | **Lenguajes de programación** | Python, Javascript, PhP,|
-| **Frameworks** | Express, PUG, Bootstrap  |
+| **Frameworks** | ExpressJS, PUG, Bootstrap  |
 | **Actualmente aprendiendo** | MySQL, PhP POO, Symfony, Laravel  |
-| **Otros** | HTML, CSS |
+| **Otros** | HTML, CSS, NodeJS, Discord.JS |
 
 ### 📊 Estadísticas de GitHub
 [![Chrosto's GitHub stats](https://github-readme-stats.vercel.app/api?username=akachrosto&show_icons=true&theme=blueberry&count_private=true&hide=prs,issues&hide_border=true&locale=es)](https://github.com/anuraghazra/github-readme-stats)
