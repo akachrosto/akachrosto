@@ -1,6 +1,3 @@
-### 👔 Acerca de mí 
-Soy un desarrollador Junior interesado en el desarrollo web (específicamente en el backend)
-
 ### 💻 Habilidades
 
 | **Tópico** | **Actividad** |
